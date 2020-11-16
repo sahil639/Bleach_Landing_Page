@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Poppins';
-  background: #D8DBE2;
+  background: #7c7c7c;
   width: 100%;
   height: 100vh;
   overflow: hidden;
@@ -86,11 +86,11 @@ ul {
 
 .text h2 {
   position: absolute;
-  top: 40px;
-  left: -80px;
+  top: 50px;
+  left: -10px;
   color: #EFDE74;
   z-index: -1;
-  font-size: 150px;
+  font-size: 130px;
   font-weight: 600;
   letter-spacing: 8px;
   text-transform: uppercase;
@@ -168,11 +168,11 @@ ul {
 }
 
 .first {
-  background: #efde74;
+  background: #cf0d06;
 }
 
 .second {
-  background: #efde74;
+  background: #cf0d06;
   left: 33.3%;
 }
 
